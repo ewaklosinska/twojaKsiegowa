@@ -144,6 +144,16 @@ h1, h2, h3, h4, h5, h6 {
     margin: 20px 10px;
 }
 
+@media (max-width: 991px) {
+    .title-desc {
+        width: 100vw;
+    }
+    
+.btn-offer {
+    margin-bottom: 15%;
+}
+}
+
 @media (max-width: 1028px) {
     #title {
         text-align: center;
